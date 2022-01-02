@@ -10,6 +10,14 @@ You can check out my thesis written in Turkish.
 
 ---
 
+### Working Example
+
+This is a sample work of project with applied **2x speed**. 
+
+![Working Example](working_example.gif)
+
+---
+
 ### Flow Chart
 
 ![Flow Chart of Project](flowchart.png)
@@ -28,11 +36,3 @@ You can check out my thesis written in Turkish.
 * If mean of image matrix bigger than 0.5 then "Close" audio output is given.
 * Results written to screen
 * Back to the loop (for stream video)
-
----
-
-### Working Example
-
-This is a sample work of project with applied **2x speed**. 
-
-![Working Example](working_example.gif)
