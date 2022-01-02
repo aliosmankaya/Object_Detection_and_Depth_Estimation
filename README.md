@@ -12,7 +12,7 @@ You can check out my thesis written in Turkish.
 
 ### Working Example
 
-This is a sample work of project with applied **2x speed**. 
+This is a sample work of project video with applied **2x speed**. 
 
 ![Working Example](working_example.gif)
 
