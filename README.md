@@ -3,8 +3,8 @@
 ## Graduation Thesis
 
 ### About
-This project is my Bachelor's Degree Graduation Thesis. 
-It's aim to develop an computer vision based application to visual impaired individuals for help them in their daily routines.
+This project is my Bachelor's Degree Graduation Thesis.<br>
+It's aim to develop an computer vision based application to visual impaired individuals for help them in their daily routines.<br>
 You can check out my thesis written in Turkish.
 
 ---
