@@ -2,8 +2,6 @@
 
 ## Graduation Thesis
 
----
-
 ### About
 This project is my Bachelor's Degree Graduation Thesis. 
 It's aim to develop an computer vision based application to visual impaired individuals for help them in their daily routines.
